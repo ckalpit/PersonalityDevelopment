@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Personality Development</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Basic</string>
+    <string name="title_section3">Advanced</string>
+    <string name="title_section4">Quotes</string>
+    <string name="title_section5">About</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="des">
+        <item>What you wear also contributes greatly to your personality. What you wear reflects your inner personality and is indirectly related to how you think."\n""\n"
+
+You must choose your attire according to the situation you are about to face. For example, if you are going to conduct a seminar, you must look formal and refrain from the t-shirts and jeans. Whereas if you are just going for some programming stuff at any place, formal wear won’t be a good decision to jump on. Programmers usually represent themselves with polo t-shirts and jeans. So wear according to the situation, the work and the environment."\n""\n"
+
+One main thing about attire is how you carry anything that you wear. If you are wearing a casual shirt and jeans without any proper way, thinking it will give you a decent look, you are mistaken. But how you carry it on you, what pair of colours you choose, whether you must put your shirt in or not is the thing you must think upon.</item>
+        <item>When you speak before any person, before you start speaking, your body language is something that creates the initial impact on the opposite person."\n"\n""
+
+Whenever you speak or listen, stand still. Constantly moving or swaying creates an interruption in the conversation. If you stand still but relaxed, it throws positivity from you on other person and you look confident."\n""\n"
+
+Keep an eye-to-eye contact. While you have conversation with a person, maintaining eye-to-eye contact with the other person makes the conversation deep and clear. It means that you and the opposite person are focused in the conversation rather than some different topic."\n""\n"
+
+Movement of your hands, shoulders or torso much be well-timed. If you constantly keep shrugging your shoulders or move hands, it may create disturbance in your personality. Move your body parts timely and when needed."\n" "\n"
+
+Your body language is the first and foremost impression of your inner self.</item>
+        <item>When you develop personality, politeness is something that goes parallel. Be courteous and generous to make your personality shine.
+
+Note that when a gentleman, who carries a dynamic personality is always too humble and polite. He always shows some courtesy towards the people.
+If you get rude and misbehave, even though you have outstanding looks, you won’t be counted as a person with good personality."\n""\n"
+
+Being courteous is the way to win hearts and be a gentleman. When you are soft at your tongue and nature, your personality gets a double boost. How you behave with someone inferior or superior to you defines your courtesy towards that being."\n""\n"
+
+Be well-mannered, be generous, be courteous. An overwhelming personality always carries a humble heart.</item>
+        <item>When we talk about personality, it should be such a dynamic that everyone gets a positive impact from you. This special ingredient in your personality can only be achieved if you know yourself."\n""\n"
+
+Many people take decisions and judgment without thinking.
+You must first and foremost think on yourself and know your plus points and your drawbacks.  If you very well understand yourself, you can judge what’s good for you and what’s bad."\n""\n"
+
+If you hardly think on yourself and just go for development of yourself, you may get misleaded.
+Everyone has their own positive points and limitations. Everyone is unique. You need to have a look in your inside and see what you need the most and what you need to develop.</item>
+        <item>What adds the most to your personality is your perception towards people, towards life. That can be achieved through positivity, better known as optimism.
+It is very well said by Sandeep Maheshwari that many people mistake positivity as having good expectations and high hopes for any event that is to take place. Optimism is not that you give an exam and sit back, hoping for a good result."\n""\n"
+
+But if you face any problem in life, and if you take it as a challenge rather than sitting there in the corner, crying about it is called optimism. If you work day and night for something, regardless of the result and of the name and fame you will achieve from it, that is optimism. Thinking positively means to be brave and happy enough to convert any difficulty into an opportunity. For instance, if you are told to speak up in front of a crowd, think that it is an opportunity to develop yourself and express your skill."\n""\n"
+
+If said in a nutshell, optimism means finding the good in the bad. Everything possesses something good in itself. It just needs that optimistic perception. Whatever happens is always for some good.</item>
+        <item>If you are very well dressed and also have the charisma but not communication skill up to the mark, it may leave a blot on your personality."\n""\n"
+When you speak to the other person, make sure you look confident in what you speak and hold the intensity in your voice. If you speak in a dull voice, the person opposite may lose interest in the conversation."\n""\n"
+What language you speak doesn’t matter. What matters is how clearly you speak. Pronounce every word clearly so that it is audible."\n""\n"
+Cling on to your fluency. Be smooth and be calm in the speech you deliver. No need to rush. Always let your mind lead your tongue."\n""\n"
+Take regular pauses in between. And emphasize on respective words that you need to highlight in your speech."\n""\n"
+Whenever you stop while speaking, replace words like ‘ummm’ and ‘aaaa’ by your silence.</item>
+    </string-array>
+
+    <string name="title_activity_adv_deatail">Adv_deatail</string>
+    <string name="title_activity_adv_detail">Adv_detail</string>
+
+    <string-array name="des2">
+        <item>Whenever there is an on-going conversation between two people or more, there will be an exchange of different ideas among them and it is completely inevitable. Considering this fact, it is very important to have a smooth co-ordination between them. What results from lack of co-ordination then is an argument."\n""\n"
+
+When thoughts differ, argument arises if not taken into proper understanding. It is a very prior principle that when we have a conversation with someone, the ideas we share must be understood clearly by the other person and vice versa. If either of them lacks in following that prior principle, an argument will surely arise.
+
+Proper understanding and clear thoughts reduce the chances os an argument. It is also important for the persons to keep calm while exchanging thoughts. The speaker must be clear in what he speaks and what he wants to mean by his thoughts and at the same time, the other person must have a careful listening to what he speaks. Even these small actions can prevent us from falling into an argument. The best and the prominent way to avoid an argument is to consider the conversation as a discussion."\n""\n"
+
+Keep calm, have clear exchange of thoughts, keep it a discussion and even have a small smile on your face while talking. These all will really help by not to argue while chatting.</item>
+        <item>People have always relayed the word ‘goal’ with earning. We can say we achieved our goals only if we are earning good bucks, this is what a common man thinks. But achieving goal is not just based upon how much a person earns. To achieve goal, basically means to be at a position you had always dreamt of and worked for."\n""\n"
+
+The main and root quality you must have is love. Love for what you do. We always go after what we love. If you do what you love, this love emerges out with passion, dedication and hardwork towards the work. This will develop your supremacy over your work."\n""\n"
+
+When you do the work and that too with too much of ease, this will make you an expert in that particular field, the dominator of that field. You will be at the pinnacle of what you’ve always dreamt."\n""\n"
+
+This gives you the satisfaction and the happiness you always deserved for the times you strived to earn that niche of your life."\n""\n"
+
+This makes you a successful person. This is how you can achieve your goal. Whatever you will earn, whether it be name, fame or money, by being successful after achieving your goal will be the outcome of your endeavour.</item>
+        <item>Any good thing in life is never achieved by keeping one’s self in the comfort zone. To be in a pure form, the gold has to pass through many rough-tough processes."\n""\n"
+
+The basic and the most important necessity to achieve the goal is the enthusiasm. If you do not love what you do and are not dynamic, the effort, no matter how much you put towards it is futile. Once you gain the zeal, half the battle is won."\n""\n"
+What matters next is your mind power. Be optimistic. There are many things that tend to push us off our track. We must be stiff enough in our personality to ignore all the negativities and move ahead with broad perception."\n""\n"
+When you initiate, failure is irrefutable. It is through failure by which goals can be achieved. Let the failure not dull your zeal. Your power towards your goal is always greater than the domination of failure."\n""\n"
+The fundamentals are something you need to inculcate in yourself to achieve your goal you keenly want to achieve.</item>
+        <item>Being smart in this competition-fueled running world is a unique thing for one. People are joined in the race of competition where they lose their sense and grow less smart. Well, smart are not those who cram their bulky books and top their schools and universities. Smart are those who are up to date with the trending topics of the world and who know to implement their knowledge in easiest, most convenient and simplest manner."\n""\n"
+
+Being smart is really as task as smooth as butter. Reading newspapers helps you connect with the fast-paced world. It even adds to your vocabulary power."\n""\n"
+Explore the internet with different topics and ideas. You are interested and dedicated towards something? Just hit the internet and gain knowledge about that particular topic. Not only it will make you more knowledgeable towards that topic but it will also open up  your mind to come up with easy and new ideas, making you work towards that thing. All this will transform you into an expert."\n""\n"
+
+Stuff yourself with information, simplify the things, ignore the complexities as much as possible, update yourself by reading news, be elegant and most of all, do not let go your implementation. After all, being smart is not a one touch thing.</item>
+        <item>Ever tried to speak on any topic in public? Ever gathered guts to stand up and speak in front of 250 human beings? No? Ask yourself why and the only answer you get will be lack of confidence."\n""\n"
+
+When you have two ways to choose from and if both the ways mislead you, there is always a third way you need to carve out. There is either lack of confidence or over-confidence. You need to walk on the mid-path, confidence."\n""\n"
+
+Confidence, in simple words means presence of mind. You cannot gain confidence over-night. What you need is practice. Confidence is a skill that needs to be developed. Gather a small audience of your friends and deliver speech in front of them. Even speak to yourself while standing in front of the mirror. The key to confidence is self-trust and self-motivation. Trust yourself enough that you will do well and motivate yourself enough that you can achieve the skill."\n""\n"
+
+The more you will speak, the more confidence you will gain. Mistakes are inevitable while practicing but they are the key ingredients that will boost up the confidence in you. Speak whenever you get chance. Note down the moments you stop and work upon those weak points. Remember, Rome wasn’t built in a day. It is the failure that leads the man towards success. If you are failing, it means you are trying and if you are trying, success is just at your doorsteps already!</item>
+        <item>We all may have read several articles on how to increase our concentration. Meditation, focus, presence of mind etc. All of these are very much true but even for all these, there is a basic root. You meditate, you feel the peace and there you are where you find yourself."\n""\n"
+
+It is in this busy life where we just focus on our outer body and materialistic thoughts and forget about the inner soul, the inner peace and inner happiness."\n""\n"
+
+When you truly are in contact with your inner peace, that’s where you can gain concentration. Concentration can simply be said as presence of mind. If you become too busy in materialistic things, there are maximum chances of you losing your concentration, though indirectly."\n""\n"
+
+What you need to do is first know yourself. Know what constructive thing you love to do. Spend few minutes in that. You will do it with full focus. Gradually increase your time. After month or two, jump on to something difficult in which you have no interest and give it a try. It will be surprising to know that you will be able to give full concentration to that thing."\n""\n"
+
+Along with all these, continue meditating everyday early in the morning. It is the best and the ultimate way to squeeze your brain and gain the benefits out from it."\n""\n"
+
+Even if you’ve read  this with little concentration, that will contribute to increase your brain power!</item>
+    </string-array>
+
+    <string name="title_activity_qu_">Qu_Activity</string>
+
+</resources>
